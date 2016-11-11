@@ -1,0 +1,6 @@
+C:\Users\maxwell.santos\Documents\Alura\LacosMultiplos\LacosMultiplos\bin\Debug\LacosMultiplos.exe.config
+C:\Users\maxwell.santos\Documents\Alura\LacosMultiplos\LacosMultiplos\bin\Debug\LacosMultiplos.exe
+C:\Users\maxwell.santos\Documents\Alura\LacosMultiplos\LacosMultiplos\bin\Debug\LacosMultiplos.pdb
+C:\Users\maxwell.santos\Documents\Alura\LacosMultiplos\LacosMultiplos\obj\Debug\LacosMultiplos.csprojResolveAssemblyReference.cache
+C:\Users\maxwell.santos\Documents\Alura\LacosMultiplos\LacosMultiplos\obj\Debug\LacosMultiplos.exe
+C:\Users\maxwell.santos\Documents\Alura\LacosMultiplos\LacosMultiplos\obj\Debug\LacosMultiplos.pdb
